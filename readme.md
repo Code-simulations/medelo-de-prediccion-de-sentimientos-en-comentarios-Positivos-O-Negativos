@@ -1,4 +1,4 @@
-### Importante empezar a ejecutar desde el punto **2.** a **7.** los puntos anteriores son de la traducción del DataSet
+### Importante no ejecutar desde el punto 2. a 7. los puntos entre esas dos consignas son de la traducción del DataSet
 
 ##### modelo de predicción de sentimientos en comentarios de distintas empresas
 
