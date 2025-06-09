@@ -1,0 +1,97 @@
+Text,Sentiment,Source,Date/Time,User ID,Location,Confidence Score
+¡Amo este producto!,Positivo, Twitter, 2023-06-15 09:23:14, @user123,Nueva York,0.85
+El servicio fue terrible.,Negativo, Yelp Reviews, 2023-06-15 11:45:32, user456,Los Angeles,0.65
+¡Esta película es increíble!,Positivo, IMDb, 2023-06-15 14:10:22, moviefan789,Londres,0.92
+Estoy muy decepcionado con su atención al cliente.,Negativo, Online Forum, 2023-06-15 17:35:11, forumuser1,Toronto,0.78
+¡Acabo de tener la mejor comida de mi vida!,Positivo, TripAdvisor, 2023-06-16 08:50:59, foodie22,París,0.88
+La calidad de este producto es deficiente.,Negativo, Amazon Reviews, 2023-06-16 10:15:27, shopper123,San Francisco,0.72
+No puedo dejar de escuchar esta canción. ¡Es increíble!,Positivo, Spotify, 2023-06-16 13:40:18, musiclover456,Berlina,0.91
+Su sitio web es tan fácil de usar. ¡Me encanta!,Positivo, Website Testimonial, 2023-06-16 16:05:36, testimonialuser1,Sydney,0.87
+¡Me encantó la película! ¡Fue fantástico!,Positivo, IMDb, 2023-07-02 09:12:34, user123,Nueva York,0.92
+El servicio al cliente fue terrible.,Negativo, Yelp Reviews, 2023-07-02 10:45:21, user456,Los Angeles,0.65
+Este libro me hizo sentir inspirado. ¡Muy recomendable!,Positivo, Goodreads, 2023-07-02 12:34:56, bookworm789,Londres,0.88
+Estoy extremadamente decepcionado con la calidad de su producto.,Negativo, Online Store, 2023-07-02 15:21:43, shopper789,San Francisco,0.72
+¡Acabo de tener las vacaciones más increíbles! No puedo esperar para volver.,Positivo, TripAdvisor, 2023-07-02 18:01:23, travelenthusiast1,Sydney,0.93
+La comida en este restaurante era horrible. ¡Nunca volver a volver!,Negativo, Zomato, 2023-07-02 20:45:37, foodlover123,Mumbai,0.55
+No puedo dejar de escuchar esta canción. ¡Es mi nuevo favorito!,Positivo, Spotify, 2023-07-03 09:17:52, musiclover789,Berlina,0.91
+Su sitio web es muy confuso y mal diseñado.,Negativo, Website Review, 2023-07-03 11:59:18, user789,Toronto,0.68
+Tuve una experiencia increíble en el parque temático. ¡Muy divertido!,Positivo, Trip Report, 2023-07-03 14:40:05, thrillseeker1,Orlando,0.89
+El producto llegó dañado. Muy decepcionado.,Negativo, Online Store, 2023-07-03 17:25:09, buyer123,Chicago,0.76
+El concierto fue absolutamente impresionante. ¡Mejor actuación de todos!,Positivo, Event Review, 2023-07-03 20:15:33, musicfan456,París,0.95
+Tuve una experiencia terrible con su atención al cliente.,Negativo, Online Chat, 2023-07-04 08:32:41, user1234,Sydney,0.61
+¡Esta película es una obra maestra! Me quedé impresionado.,Positivo, IMDb, 2023-07-04 14:05:27, cinephile789,Los Angeles,0.93
+El servicio al cliente en esta tienda es de primera categoría.,Positivo, Yelp Reviews, 2023-07-04 16:35:19, shopper456,Nueva York,0.82
+Estoy decepcionado con el final de este libro. Cayó plano.,Negativo, Goodreads, 2023-07-04 19:18:53, booklover123,Londres,0.68
+El producto que recibí fue dañado. Inaceptable.,Negativo, Online Store, 2023-07-04 21:52:41, buyer789,San Francisco,0.75
+Solo tuve la peor experiencia de vuelo. Personal retrasado y grosero.,Negativo, Airline Review, 2023-07-05 09:10:15, traveler456,Sydney,0.57
+¡La estadía del hotel fue absolutamente increíble! Lujo en su máxima expresión.,Positivo, TripAdvisor, 2023-07-05 12:30:08, traveladdict1,París,0.95
+La comida en este restaurante fue excepcional. ¡Muy recomendable!,Positivo, Zomato, 2023-07-05 15:45:32, foodie789,Mumbai,0.89
+Esta lista de reproducción es mi opción para los entrenamientos. ¡Energizante y motivador!,Positivo, Spotify, 2023-07-05 18:20:17, gymrat123,Berlina,0.91
+Tuve una experiencia frustrante navegando a través de su sitio web.,Negativo, Website Review, 2023-07-05 21:05:44, user987,Toronto,0.67
+¡El paseo en la montaña rusa fue emocionante! ¡Excitación con el corazón sincero!,Positivo, Theme Park Review, 2023-07-06 08:48:39, thrillseeker2,Orlando,0.92
+El producto que pedí nunca llegó. Terrible servicio.,Negativo, Online Store, 2023-07-06 11:25:56, customer123,Chicago,0.64
+No puedo tener suficiente de esta banda. ¡Su música es increíble!,Positivo, Music Review, 2023-07-06 14:15:23, musiclover987,Londres,0.94
+Tuve una gran conversación con su atención al cliente. Servicial y amable.,Positivo, Online Chat, 2023-07-06 17:02:11, user7890,Sydney,0.85
+Este restaurante tiene la comida más deliciosa. ¡No puedo esperar para volver!,Positivo, TripAdvisor, 2023-07-09 09:12:54, foodie123,París,0.94
+El producto que compré se rompió en una semana. Mala calidad.,Negativo, Online Store, 2023-07-09 11:45:32, shopper246,Los Angeles,0.61
+Este libro es estimulante y bellamente escrito. ¡Muy recomendable!,Positivo, Goodreads, 2023-07-09 14:23:18, bookworm567,Londres,0.89
+El servicio al cliente en esta tienda es excepcional. Fueron más allá.,Positivo, Retail Store, 2023-07-09 17:05:46, shopper7890,Nueva York,0.87
+Tuve una experiencia terrible con su apoyo técnico. Sin resolución.,Negativo, Online Helpdesk, 2023-07-09 19:40:27, user9876,San Francisco,0.63
+¡El concierto en vivo fue electrizante! La energía de la banda era contagiosa.,Positivo, Event Review, 2023-07-10 08:50:13, musiclover7890,Sydney,0.92
+Estoy decepcionado con la comida en este restaurante. No tenía sabor.,Negativo, Zomato, 2023-07-10 11:32:59, foodcritic123,Mumbai,0.68
+Esta canción siempre me pone de buen humor. ¡Es mi pista para sentirse bien!,Positivo, Spotify, 2023-07-10 14:20:05, playlistlover456,Berlina,0.93
+El sitio web es lento e insensible. Difícil de navegar.,Negativo, Website Review, 2023-07-10 17:15:22, user24680,Toronto,0.65
+¡El paseo en la montaña rusa fue emocionante! ¡Adrenalina pura!,Positivo, Theme Park Review, 2023-07-10 20:02:37, thrillseeker789,Orlando,0.95
+El producto que pedí llegó dañado. Muy decepcionado con el empaque.,Negativo, Online Store, 2023-07-11 08:40:51, buyer7890,Chicago,0.67
+Estoy cautivado por el sonido único de esta banda. ¡Son un soplo de aire fresco!,Positivo, Music Review, 2023-07-11 11:22:17, musicfan567,Londres,0.94
+La atención al cliente respondió rápidamente y resolvió mi problema. ¡Impresionado!,Positivo, Online Chat, 2023-07-11 14:18:42, user123456,Sydney,0.85
+Este restaurante tiene la mejor comida. ¡Lo recomiendo encarecidamente!,Positivo, Yelp Reviews, 2023-07-11 17:30:15, foodie246,Los Angeles,0.9
+La trama de esta película es confusa y difícil de seguir.,Negativo, IMDb, 2023-07-11 20:15:42, moviegoer789,Londres,0.62
+Soy adicto a este juego. ¡Es muy divertido!,Positivo, Gaming Forum, 2023-07-12 09:05:59, gamer123,Nueva York,0.88
+El servicio al cliente en este hotel fue terrible. Evite a toda costa.,Negativo, Travel Website, 2023-07-12 11:45:27, traveler246,París,0.57
+Este libro me aburrió hasta las lágrimas. No pude terminarlo.,Negativo, Goodreads, 2023-07-12 14:30:18, bookworm246,San Francisco,0.68
+Estoy impresionado con la calidad de sonido de estos auriculares. ¡Excelente!,Positivo, Online Store, 2023-07-12 17:10:36, audiophile789,Berlina,0.92
+El diseño del sitio web es elegante y fácil de usar. Fácil de navegar.,Positivo, Website Testimonial, 2023-07-13 08:50:59, testimonialuser2,Sydney,0.87
+Tuve una experiencia terrible con su servicio de entrega. Tarde y poco profesional.,Negativo, Online Store, 2023-07-13 11:25:27, shopper4567,Chicago,0.64
+¡El concierto fue alucinante! La banda sabe cómo organizar un espectáculo.,Positivo, Event Review, 2023-07-13 14:05:42, musiclover1234,París,0.95
+Estoy extremadamente decepcionado con la atención al cliente. Sin resolución.,Negativo, Online Chat, 2023-07-13 16:35:19, user98765,Toronto,0.61
+El personal del hotel era grosero y poco profesional. Terrible servicio al cliente.,Negativo, Hotel Review, 2023-07-17 08:50:13, traveler789,París,0.55
+La comida en este restaurante era mediocre. Nada especial.,Negativo, Zomato, 2023-07-17 11:32:59, foodlover2468,Mumbai,0.65
+Esta canción siempre me pone en un estado de ánimo nostálgico. Me recuerda a los buenos tiempos.,Positivo, Spotify, 2023-07-17 14:20:05, nostalgiacat123,Berlina,0.88
+La velocidad de carga del sitio web es frustrantemente lenta. Necesita mejora.,Negativo, Website Review, 2023-07-17 17:15:22, user12345,Toronto,0.62
+La comida en este café superó mis expectativas. ¡Absolutamente delicioso!,Positivo, Food Blog, 2023-07-13 19:18:53, foodlover246,Mumbai,0.92
+Estoy decepcionado con el final de este programa de televisión. Dejó demasiadas preguntas sin respuesta.,Negativo, TV Show Review, 2023-07-14 08:32:41, tvfan123,Los Angeles,0.66
+Este álbum es una obra maestra. ¡Cada canción es una obra de arte!,Positivo, Music Review, 2023-07-14 11:05:27, musicenthusiast1,Londres,0.93
+El diseño del sitio web es desordenado y confuso. Difícil encontrar información.,Negativo, Website Review, 2023-07-14 14:40:05, user2468,Sydney,0.67
+La montaña rusa en este parque temático es una experiencia emocionante. ¡Una visita obligada!,Positivo, Theme Park Review, 2023-07-14 17:25:09, thrillseeker3,Orlando,0.91
+El producto que pedí nunca llegó. Mal servicio al cliente.,Negativo, Online Store, 2023-07-15 08:50:13, buyer1234,Chicago,0.63
+Estoy asombrado del talento de este artista. ¡Sus pinturas son impresionantes!,Positivo, Art Review, 2023-07-15 12:30:08, artlover123,París,0.94
+La comida en este restaurante fue decepcionante. No vale la pena el precio.,Negativo, Zomato, 2023-07-15 15:45:32, foodcritic246,Mumbai,0.68
+Esta lista de reproducción es perfecta para la relajación. ¡Calmante y calmante!,Positivo, Spotify, 2023-07-15 18:20:17, relaxmusiclover,Berlina,0.91
+La navegación del sitio web es fluida e intuitiva. Encontré lo que necesitaba rápidamente.,Positivo, Website Testimonial, 2023-07-15 21:05:44, happyuser123,Toronto,0.88
+El viaje en este crucero fue una experiencia inolvidable. ¡Me encantó cada momento!,Positivo, Travel Blog, 2023-07-16 09:12:54, travelenthusiast2,Sydney,0.95
+El producto que recibí era de mala calidad. Se rompió después de algunos usos.,Negativo, Online Store, 2023-07-16 11:45:32, shopper567,Los Angeles,0.61
+Este libro me mantuvo enganchado de principio a fin. ¡Una lectura cautivadora!,Positivo, Goodreads, 2023-07-16 14:23:18, bookworm7890,Londres,0.9
+El servicio al cliente en esta tienda es excepcional. Realmente se preocupan por sus clientes.,Positivo, Retail Store, 2023-07-16 17:05:46, happyshopper1,Nueva York,0.92
+Tuve una experiencia frustrante con su apoyo técnico. No se proporciona resolución.,Negativo, Online Helpdesk, 2023-07-16 19:40:27, user98765,San Francisco,0.67
+El personal del hotel era grosero y poco profesional. Terrible servicio al cliente.,Negativo, Hotel Review, 2023-07-17 08:50:13, traveler789,París,0.55
+La comida en este restaurante era mediocre. Nada especial.,Negativo, Zomato, 2023-07-17 11:32:59, foodlover2468,Mumbai,0.65
+Esta canción siempre me pone en un estado de ánimo nostálgico. Me recuerda a los buenos tiempos.,Positivo, Spotify, 2023-07-17 14:20:05, nostalgiacat123,Berlina,0.88
+La velocidad de carga del sitio web es frustrantemente lenta. Necesita mejora.,Negativo, Website Review, 2023-07-17 17:15:22, user12345,Toronto,0.62
+¡Amo este producto!,Positivo, Twitter, 2023-06-15 09:23:14, @user123,Nueva York,0.85
+El servicio fue terrible.,Negativo, Yelp Reviews, 2023-06-15 11:45:32, user456,Los Angeles,0.65
+¡Esta película es increíble!,Positivo, IMDb, 2023-06-15 14:10:22, moviefan789,Londres,0.92
+Estoy muy decepcionado con su atención al cliente.,Negativo, Online Forum, 2023-06-15 17:35:11, forumuser1,Toronto,0.78
+¡Acabo de tener la mejor comida de mi vida!,Positivo, TripAdvisor, 2023-06-16 08:50:59, foodie22,París,0.88
+La calidad de este producto es deficiente.,Negativo, Amazon Reviews, 2023-06-16 10:15:27, shopper123,San Francisco,0.72
+No puedo dejar de escuchar esta canción. ¡Es increíble!,Positivo, Spotify, 2023-06-16 13:40:18, musiclover456,Berlina,0.91
+Su sitio web es tan fácil de usar. ¡Me encanta!,Positivo, Website Testimonial, 2023-06-16 16:05:36, testimonialuser1,Sydney,0.87
+¡Me encantó la película! ¡Fue fantástico!,Positivo, IMDb, 2023-07-02 09:12:34, user123,Nueva York,0.92
+El servicio al cliente fue terrible.,Negativo, Yelp Reviews, 2023-07-02 10:45:21, user456,Los Angeles,0.65
+Este libro me hizo sentir inspirado. ¡Muy recomendable!,Positivo, Goodreads, 2023-07-02 12:34:56, bookworm789,Londres,0.88
+Estoy extremadamente decepcionado con la calidad de su producto.,Negativo, Online Store, 2023-07-02 15:21:43, shopper789,San Francisco,0.72
+¡Acabo de tener las vacaciones más increíbles! No puedo esperar para volver.,Positivo, TripAdvisor, 2023-07-02 18:01:23, travelenthusiast1,Sydney,0.93
+La comida en este restaurante era horrible. ¡Nunca volver a volver!,Negativo, Zomato, 2023-07-02 20:45:37, foodlover123,Mumbai,0.55
+No puedo dejar de escuchar esta canción. ¡Es mi nuevo favorito!,Positivo, Spotify, 2023-07-03 09:17:52, musiclover789,Berlina,0.91
+Su sitio web es muy confuso y mal diseñado.,Negativo, Website Review, 2023-07-03 11:59:18, user789,Toronto,0.68
+Tuve una experiencia increíble en el parque temático. ¡Muy divertido!,Positivo, Trip Report, 2023-07-03 14:40:05, thrillseeker1,Orlando,0.89
